@@ -16,7 +16,7 @@ body {
 
 /* Navigation */
 nav {
-  background: #1e293b;
+  background: #16a34a;
   padding: 0 2rem;
   display: flex;
   align-items: center;
@@ -236,7 +236,7 @@ main {
 
 /* Contact Info */
 .contact-info {
-  background: #1e293b;
+  background: #16a34a;
   color: #fff;
   border-radius: 12px;
   padding: 2rem;
